@@ -2,7 +2,7 @@ outputdir = "%{cfg.buildcfg}_%{cfg.system}_%{cfg.architecture}"
 
 workspace "Learn"
 	architecture "x64"
-	startproject "GuessingGame"
+	startproject "Guessing"
 	
 	configurations
 	{
